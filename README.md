@@ -15,7 +15,7 @@ See the images below detailing compiled contracts, deployed contracts, and testi
 
 ![x](/Evaluation_Evidence/KaseiCoin_compiled.PNG)
 
-- KaseiCoin crowdsale and deployer contracts compiled and deployed.
+- KaseiCoin crowdsale and deployer contracts compiled and deployed after importing Crowdsale and MintedCrowdsale contracts from OpenZeppelin.
 
 ![x](/Evaluation_Evidence/KaseiCoin_crowdsale.PNG)
 
